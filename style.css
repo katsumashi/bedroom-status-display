@@ -1,4 +1,17 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
+}
+
+.header img {
+    float: right;
+    width: 150px;
+    height: 100px;
+    background: #555;
+}
+
+.header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
 }
