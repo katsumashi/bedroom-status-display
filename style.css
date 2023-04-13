@@ -1,6 +1,7 @@
 body {
     background-color: white;
     color: black;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .header img {
@@ -14,4 +15,11 @@ body {
     position: relative;
     top: 18px;
     left: 10px;
+}
+
+.tempdisplay {
+    position: relative;
+    float: top;
+    left: 300px;
+    top: -40px;
 }
